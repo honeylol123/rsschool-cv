@@ -1,5 +1,5 @@
  <body>
- font-family:'Roboto', sans-serif;
+ font-family:'Roboto'; sans-serif
  * {
     box-sizing: border-box; border: 1px solid red;display: flex;
     flex-direction: column;
@@ -18,7 +18,7 @@
       }
         .section {
           width: 100%;
-        }.section-item::before {
+        }.section-item::before 
   .navlist {
         display: flex;
         justify-content: flex-end;
